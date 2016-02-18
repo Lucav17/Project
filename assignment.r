@@ -1,5 +1,1 @@
-x <- 1:100
-
-y <- x * 2
-
-plot(y)
+zeb_movies <- list('12 Angry Men', 'Life of Pi', 'The Dark Knight', 'Spirited Away', 'The Great Gatsby')
